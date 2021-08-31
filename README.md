@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Napoleon Soechiarto  
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in React.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on building APIs
 - 📫 How to reach me: james.n.kai92@gmail.com
 
